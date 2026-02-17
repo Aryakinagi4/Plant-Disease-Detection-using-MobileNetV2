@@ -1,5 +1,11 @@
 # Identification of Anthracnose in Chillies using Deep Learning on Embedded Platforms
 
+![Research](https://img.shields.io/badge/Published-IEEE-green)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-MobileNetV2-orange)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CNN-blue)
+![TensorFlow Lite](https://img.shields.io/badge/Edge%20AI-TFLite-green)
+
+
 This repository documents the research work presented in:
 
 "Identification of Anthracnose in Chillies using Deep Learning on Embedded Platforms"
